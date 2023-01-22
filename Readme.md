@@ -9,11 +9,11 @@
      have to guess the word within limited chances
    * Note: you can also change the list of word according to your taste
 
-### 2. User Guess Number Game(Guessing the word)
+### 2. User Guess Number Game
    * This is the most basic game implemented in python
    * Computer randomly choses the number and the user have to guess it
    * There are hints that the number is higher or lower
-   
+
 ---
 
 keep coding:)
