@@ -14,6 +14,10 @@
    * Computer randomly choses the number and the user have to guess it
    * There are hints that the number is higher or lower
 
+### 4. Computer Guess Number Game
+   * User randomly choses the number and the computer have to guess it
+   * User decides if the computer guess is higher lower or correct
+
 ---
 
 keep coding:)
